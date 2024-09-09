@@ -1,0 +1,120 @@
+[
+  {
+    "hostname": null,
+    "ip": "192.168.0.1",
+    "mac": "44:D4:54:FF:AC:57",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Sagemcom Broadband SAS"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.94",
+    "mac": "00:1C:2B:49:C9:24",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Alertme.com Limited"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.99",
+    "mac": "F0:72:EA:D8:79:6A",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Google"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.109",
+    "mac": "48:E1:E9:CA:59:98",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Chengdu Meross Technology"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.152",
+    "mac": "20:1F:3B:8A:34:C1",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Google"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.158",
+    "mac": "20:1F:3B:7F:4E:00",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Google"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.169",
+    "mac": "A4:0E:2B:2D:62:82",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Facebook"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.178",
+    "mac": "34:3E:A4:5D:55:F7",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Ring"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.181",
+    "mac": "20:1F:3B:3A:B4:0F",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Google"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.206",
+    "mac": "9A:E8:60:B9:F1:17",
+    "openPorts": null,
+    "osNmap": null
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.222",
+    "mac": "34:3E:A4:50:C2:DC",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Ring"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.227",
+    "mac": "F8:F5:32:F3:0F:BE",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Arris Group"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.241",
+    "mac": "54:E0:19:F4:4A:65",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Ring"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.242",
+    "mac": "9C:76:13:2A:30:54",
+    "openPorts": null,
+    "osNmap": null,
+    "vendor": "Ring"
+  },
+  {
+    "hostname": null,
+    "ip": "192.168.0.156",
+    "mac": null,
+    "openPorts": null,
+    "osNmap": null
+  }
+]

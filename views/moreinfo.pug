@@ -1,0 +1,48 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(http-equiv="X-UA-Compatible", content="IE=edge")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title More Info
+    link(rel="stylesheet", href="styles.css")
+    script(src="darkmode.js")
+    //- script(src="scanbutton.js")
+    //- script(src="quickScan.js")
+    //- script(src="moreInfo.js")
+    
+  body.body
+    header
+      .dashboard 
+        nav 
+          a.logo(href="/dashboard")
+              img.logo-pic(src="images/ArmaguardSecurity.svg", alt="logo") 
+          ul.navbar(id="myTopnav") 
+              li.list-items 
+                a(href="/devices") Devices
+              li.list-items 
+                a(href="/network") Network 
+              li.list-items 
+                a(href="/learn") Learn
+          ul.signin
+              li.list-items
+                form(action="/logout", method="post")
+                  input(type="submit" value="Log out")
+          ul.navbar-toggle  
+              li.push-right
+                label.switch(for="darkModeToggle")
+                    input(type="checkbox" id="darkModeToggle")
+                    span.slider.round
+          a.icon(href="javascript:void(0);" onclick="myFunction()")
+
+    main
+        .devices-container-results
+          pre#more-info-link
+          p IP Address: #{ip}
+          p MAC Address: #{mac}
+          p Vendor: #{vendor}
+
+                      
+        footer 
+          p.footer-text &copy; 2024 Armaguard Security. All rights reserved | by Samuel Asamoah
+        
